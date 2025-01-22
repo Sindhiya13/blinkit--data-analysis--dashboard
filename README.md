@@ -11,6 +11,12 @@
 ## Project Overview
 The objective of the project is to analyze Blinkit’s sales performance, enhance customer satisfaction, and optimize inventory distribution by leveraging Power BI insights. It aims to assess the influence of factors like fat content, item types, and outlet establishments on sales to identify areas for improvement and drive data-driven decisions.
 
+
+
+<img width="597" alt="blinkit dashboard" src="https://github.com/user-attachments/assets/7d14a419-52f6-43e7-96e8-67ef0db6ef00" />
+
+
+
 ## Key Features
 ### Total Sales by Fat Content
 - Objective: Analyze the impact of fat content on total sales.
