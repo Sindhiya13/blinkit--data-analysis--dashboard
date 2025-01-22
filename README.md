@@ -2,12 +2,12 @@
 
 ## Table of contents
 
-- [Project Overview](#project-overview)
-- [Key Features](key-features)
-- [Tools Used](tools-used)
-- [Results](results)
-- [Recommendations](recommendations)
-- [Limitations](limitations)
+ - [Project Overview](#project-overview)
+- [Key Features](#key-features)
+- [Tools Used](#tools-used)
+- [Results](#results)
+- [Recommendations](#recommendations)
+- [Limitations](#limitations)
 ## Project Overview
 The objective of the project is to analyze Blinkit’s sales performance, enhance customer satisfaction, and optimize inventory distribution by leveraging Power BI insights. It aims to assess the influence of factors like fat content, item types, and outlet establishments on sales to identify areas for improvement and drive data-driven decisions.
 
